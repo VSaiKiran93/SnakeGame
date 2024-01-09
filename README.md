@@ -1,4 +1,4 @@
 ## OutPut:
 
-<img width="960" alt="image" src="https://github.com/VSaiKiran93/SnakeGame/assets/82889124/c2878965-adc7-4dbc-85ce-85a9a9bd30fb">
+<img width="960" alt="image" src="https://github.com/VSaiKiran93/SnakeGame/assets/82889124/aca8861a-e0d1-4a2f-824f-508ab08d66f5">
 
